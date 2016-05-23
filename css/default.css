@@ -19,7 +19,7 @@ header{
 }
 #main{
   background-color: white;
-  width: calc(100% - 300px);
+  width: calc(100% - 200px);
   min-width: 500px;
   float: left;
 }
