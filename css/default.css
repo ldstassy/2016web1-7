@@ -17,7 +17,7 @@ header{
   width: 100%;
   z-index: +1;
 }
-#main{
+.main{
   background-color: white;
   width: calc(100% - 200px);
   min-width: 500px;
